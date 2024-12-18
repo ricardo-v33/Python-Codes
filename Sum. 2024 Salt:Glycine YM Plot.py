@@ -28,5 +28,3 @@ plt.savefig('bar_chart_high_quality.png', dpi=2000, bbox_inches='tight')  # Save
 
 # Display the plot
 plt.show()
-
-#list = [12✅, 24(?), 34(?), 38(?), 42(?)✅, 43✅, 47(?), 49(?), 51-53(?), ]
