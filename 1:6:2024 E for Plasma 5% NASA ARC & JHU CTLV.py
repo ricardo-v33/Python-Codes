@@ -1,6 +1,5 @@
 # MODULUS & LITERATURE VALUES
 # THESE ARE GOING TO BE THE 11/24 5% JHU/PLASMA ON QUARTZ & 9/28 1% NASA ARC/PLASMA SAMPLES
-# NOTE: THIS IS PRETTY MUCH DEFINITE DATA REDUCTION
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -42,12 +41,6 @@ ax.set_title("Young's Modulus for Plasma Tholins", color="black")
 
 # Add grid lines for better readability
 plt.grid(axis="y", linestyle="dashed", alpha=0.7, color="black")
-
-# Save the plot as a high-resolution PNG file
-#plt.savefig("bar_chart_high_quality.png", dpi=2000, bbox_inches="tight")
-
-# Display a legend for the plot
-#plt.legend(framealpha=1, edgecolor="black")
 
 # Display the plot
 plt.show()
