@@ -10,7 +10,7 @@ categories = ["5% NASA ARC on Quartz", "5% JHU on Quartz",
 hardness_values = [1.453, 0.981, 0.53, 0]
 hardness_errors = [0.176, 0.112, 0.03, 0]
 
-# Create a figure with a high DPI and black background
+# Create a figure with a high DPI and white background
 plt.figure(dpi=2000, facecolor="white")
 
 # Creating the bar chart
