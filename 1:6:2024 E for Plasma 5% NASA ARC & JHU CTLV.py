@@ -10,7 +10,7 @@ categories = ["5% NASA ARC on Quartz", "5% JHU on Quartz",
 modulus_values = [19.799, 13.179, 10.4, 3]
 modulus_errors = [3.127, 1.201, 0.5, 0.5]
 
-# Create a figure with a high DPI and black background
+# Create a figure with a high DPI and white background
 plt.figure(dpi=2000, facecolor="white")
 
 # Creating the bar chart
